@@ -1,1 +1,2 @@
-# 682-Artistic-Movement-Recognition
+# 682-Artistic-Movement-Recognition 
+The project is about automatically recognizing the influence of artistic movements on digital paintings using deep convolutional neural networks. While a single image can have characteristics of multiple movements, we focussed on single label prediction. We explored transfer learning using models trained on ImageNet dataset like VGG, ResNet and also tried a couple of custom model architectures to classify the images containing the art paintings into different artistic styles. Our ensemble gave an accuracy of 0.5229.
