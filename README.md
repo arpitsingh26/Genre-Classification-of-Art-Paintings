@@ -1,1 +1,1 @@
-# Genre-Classification-of-Art-Paintings
+# 682-Artistic-Movement-Recognition

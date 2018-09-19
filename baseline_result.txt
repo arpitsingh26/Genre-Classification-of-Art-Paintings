@@ -1,0 +1,4 @@
+LinearSVC:
+Score is: 0.21712962963
+KNeighborsClassifier(n_neighbors=3)
+Score is: 0.128240740741
